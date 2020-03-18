@@ -1832,7 +1832,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #87f9ff;
+  background: #7accac;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2806,8 +2806,8 @@ pre {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 * {
-  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword2.ico"), auto !important;
+  cursor: url("/images/2018031606171178.png"), auto !important;
 }
 :active {
-  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
+  cursor: url("/images/2018031606171010.png"), auto !important;
 }
